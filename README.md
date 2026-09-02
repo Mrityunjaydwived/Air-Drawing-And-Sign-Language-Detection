@@ -1,3 +1,5 @@
+https://mrityunjaydwived.github.io/Air-Drawing-And-Sign-Language-Detection/
+
 # 🖐️ AirDraw AI - Real-Time AI Finger Drawing & Sign Language Translator
 
 **AirDraw AI** is a real-time computer vision application powered by **Google MediaPipe HandLandmarker**, **React 19**, **TypeScript**, and the **Web Speech API**. It features 2 dedicated, distraction-free modes:
